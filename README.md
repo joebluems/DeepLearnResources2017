@@ -1,6 +1,11 @@
 # DeepLearnResources2017
 Links &amp; Resources for Deep Learning Lecture
 
+### Deep Learning in the News ###
+Hedge Fund (bloomberg)- http://www.bloomberg.com/news/articles/2017-03-27/hedge-fund-quants-close-in-on-designing-ultimate-trader-s-brain <BR>
+Adversarial Nets (kdnuggets) - http://www.kdnuggets.com/2017/03/deep-learning-gans-boxing-fundamental-understanding.html <BR>
+Deep Learning in Medicine (MIT TechRev.) - https://www.technologyreview.com/s/603917/nvidias-deep-learning-chips-may-give-medicine-a-shot-in-the-arm/ <BR>
+
 ### Neural Networks Basics
 Pattern Classification, by Duda,Hart,Stork - http://www.amazon.com/Pattern-Classification-2nd-Computer-Manual/dp/0471703508/ref=sr_1_1?ie=UTF8&qid=1457133173&sr=8-1&keywords=pattern+classification <BR>
 Neural Networks for Pattern Classification, by Bishop - http://www.amazon.com/gp/product/0198538642?keywords=neural%20networks%20for%20pattern%20recognition&qid=1457129785&ref_=sr_1_1&sr=8-1 <BR>
@@ -24,11 +29,6 @@ Github for CNN on Theano+Python for Digits - http://github.com/mnielsen/neural-n
 Theano download and documentation - http://deeplearning.net/software/theano/ <BR>
 Code for running LSTM RNN Language Models - https://github.com/karpathy/char-rnn <BR>
 Download, installation, documentation for Lua+Torch - http://torch.ch/docs/getting-started.html#_ <BR>
-
-### Deep Learning in the News ###
-Hedge Fund (bloomberg)- http://www.bloomberg.com/news/articles/2017-03-27/hedge-fund-quants-close-in-on-designing-ultimate-trader-s-brain <BR>
-Adversarial Nets (kdnuggets) - http://www.kdnuggets.com/2017/03/deep-learning-gans-boxing-fundamental-understanding.html <BR>
-
 
 ### Kaggle Competitions/Blogs with DL 
 Seal Counting (competition) - https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count <BR>
