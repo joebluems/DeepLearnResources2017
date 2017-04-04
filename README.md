@@ -3,8 +3,10 @@ Links &amp; Resources for Deep Learning Lecture
 
 ### Deep Learning in the News ###
 Hedge Fund (bloomberg)- http://www.bloomberg.com/news/articles/2017-03-27/hedge-fund-quants-close-in-on-designing-ultimate-trader-s-brain <BR>
-Adversarial Nets (kdnuggets) - http://www.kdnuggets.com/2017/03/deep-learning-gans-boxing-fundamental-understanding.html <BR>
+Self-Driving Taxis (Fortune) - http://fortune.com/2017/04/04/daimler-bosch-self-driving-taxis/ <BR>
 Deep Learning in Medicine (MIT TechRev.) - https://www.technologyreview.com/s/603917/nvidias-deep-learning-chips-may-give-medicine-a-shot-in-the-arm/ <BR>
+IBM Speech Recognition (InfoQ) - https://www.infoq.com/news/2017/03/ibm-speech-recognition <BR>
+Adversarial Nets (kdnuggets) - http://www.kdnuggets.com/2017/03/deep-learning-gans-boxing-fundamental-understanding.html <BR>
 
 ### Neural Networks Basics
 Pattern Classification, by Duda,Hart,Stork - http://www.amazon.com/Pattern-Classification-2nd-Computer-Manual/dp/0471703508/ref=sr_1_1?ie=UTF8&qid=1457133173&sr=8-1&keywords=pattern+classification <BR>
@@ -20,15 +22,19 @@ Recurrent NN Blog (Language Models), by Karpathy - http://karpathy.github.io/201
 Tutorial on Recurrent NN with links to code - http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/ <BR>
 Tutorial on RNN with extra detail on LSTM - http://colah.github.io/posts/2015-08-Understanding-LSTMs/ <BR>
 
+### Primary Code Resources ###
+Download mxnet - http://mxnet.io/get_started/setup.html <BR>
+Mxnet image classification - http://mxnet.io/tutorials/computer_vision/image_classification.html <BR>
+Jupyter notebook for CNN demo - http://mxnet.io/tutorials/python/predict_imagenet.html <BR>
+Download, installation, documentation for Lua+Torch - http://torch.ch/docs/getting-started.html#_ <BR>
+Code for running LSTM RNN Language Models - https://github.com/karpathy/char-rnn <BR>
+
 ### Other Coding Resources
 A DeepNN with R+H2O for digits - http://discuss.analyticsvidhya.com/t/script-in-h2o-in-r-to-get-you-into-top-30-percentile-for-the-digit-recognizer-competition/6651 <BR>
 Another R Blog for R+H2O on some small datasets - http://www.r-bloggers.com/things-to-try-after-user-part-1-deep-learning-with-h2o/ <BR>
 Tips for improving H2O Deep Learning performance - http://www.lauradhamilton.com/10-tips-for-better-deep-learning-models <BR>
-Github for MXNET image classification - http://github.com/dmlc/mxnet/tree/master/example/image-classification <BR>
-Github for CNN on Theano+Python for Digits - http://github.com/mnielsen/neural-networks-and-deep-learning <BR>
 Theano download and documentation - http://deeplearning.net/software/theano/ <BR>
-Code for running LSTM RNN Language Models - https://github.com/karpathy/char-rnn <BR>
-Download, installation, documentation for Lua+Torch - http://torch.ch/docs/getting-started.html#_ <BR>
+Github for CNN on Theano+Python for Digits - http://github.com/mnielsen/neural-networks-and-deep-learning <BR>
 
 ### Kaggle Competitions/Blogs with DL 
 Seal Counting (competition) - https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count <BR>
