@@ -38,6 +38,7 @@ Github for CNN on Theano+Python for Digits - http://github.com/mnielsen/neural-n
 
 ### Kaggle Competitions/Blogs with DL 
 Seal Counting (competition) - https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count <BR>
+Dogs vs. Cats (playground comp) - http://blog.kaggle.com/2017/04/03/dogs-vs-cats-redux-playground-competition-winners-interview-bojan-tunguz/ <BR>
 Whale Recognition (1st place blog) - http://blog.kaggle.com/2016/01/29/noaa-right-whale-recognition-winners-interview-1st-place-deepsense-io/ <BR>
 Molecular Identification (1st place blog) - http://blog.kaggle.com/2012/11/01/deep-learning-how-i-did-it-merck-1st-place-interview/ <BR>
 DeNoising Dcouments (blog) - http://colinpriest.com/2015/11/08/denoising-dirty-documents-part-11/ <BR>
